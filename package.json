@@ -1,0 +1,22 @@
+{
+  "name": "otonielicarreon.github.io",
+  "version": "1.0.0",
+  "description": "Otoniel's Website Resume and Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtonielICarreon/otonielicarreon.github.io.git"
+  },
+  "author": "Otoniel Carreon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtonielICarreon/otonielicarreon.github.io/issues"
+  },
+  "homepage": "https://github.com/OtonielICarreon/otonielicarreon.github.io#readme",
+  "dependencies": {
+    "react": "^19.1.0"
+  }
+}
